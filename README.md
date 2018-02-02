@@ -1,3 +1,4 @@
+```
 กดที่ +แล้วกดที่ repository
 
 cd Desktop
@@ -44,3 +45,4 @@ git tag vl.26
 git push origin --tags
 git tag --delete vl.25					ลบ tag
 git push origin --delete vl.25				ลบ remote ของ tag นั้นที่ต่อกับเว็บ
+```
